@@ -1,4 +1,8 @@
 # Multi-threading-and-Synchronization
+# GROUP PROJECT CSCI 3431: Operating System(Winter 2022)
+
+The main task in this project is to design and develop a multi-threading application which involves synchronization. The program implements Floyd-Warshall (FW) All-Pairs-Shortest-Path algorithm in a multi-threaded fashion along with enforcing the readers-writers problem.![image](https://user-images.githubusercontent.com/44932604/201507541-4984fd4d-9524-4fbd-9054-2f901de296ed.png)
+
 
 # Project Instructions
 ![Screenshot](references/Project2.png/page-0.jpg)
